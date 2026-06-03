@@ -26,7 +26,6 @@
 
 **TokenHub is an AI API key manager and multi-model chat app**—one place to store keys, talk to any model, and route Cursor, agents, and other tools to OpenAI, Claude, Gemini, DeepSeek, Qwen, Grok, and 300+ models via OpenRouter.
 
-> This repository is a **private product codebase**. We do not open-source the implementation. Below: **what the app does**, **core highlights**, and **download links**.
 
 ### Highlights
 
@@ -100,8 +99,6 @@
 ## 简体中文
 
 **TokenHub 是一款 AI 密钥管理 App**：集中保管各家 API 密钥、内置多模型对话，并为 Cursor 与各类 Agent 统一路由到 OpenAI、Claude、Gemini、DeepSeek、通义千问、Grok 及 OpenRouter 等 300+ 模型。
-
-> 本仓库为**私有产品代码**，**不开放源代码**。下文说明**产品是什么**、**三大重点**与**下载方式**。
 
 ### 三大重点
 
